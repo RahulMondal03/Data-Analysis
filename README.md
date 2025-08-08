@@ -9,7 +9,7 @@ This project analyzes store sales data to generate a **Sales Annual Report**, hi
 
 Below is a preview of the dashboard:
 
-![Report Preview]()
+![Report Preview](https://github.com/RahulMondal03/Data-Analysis/blob/main/Report.png)
 
 ## Steps Involved
 
